@@ -2,7 +2,6 @@ import React from 'react';
 import { screen } from '@testing-library/react';
 import { act } from 'react-dom/test-utils';
 import userEvent from '@testing-library/user-event';
-// import { createMemoryHistory } from 'history';
 import renderWithRouter from '../renderWithRouter';
 import App from '../App';
 
